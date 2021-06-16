@@ -1,5 +1,5 @@
 # Jacob van der Leeuw
-<img src="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/master/IMG_20210615_174320375.jpg" alt="hi" class="inline"/>
+<img src="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/master/Jacob_Photo.jpg" alt="Jacob" class="inline"/>
 
 Hello, I am Jacob van der leeuw, a rising senior majoring in mathematics and computer science at the University of Arizona. I am interested in a wide variety of subjects and enjoy taking on new problems and projects. My school email is jvanderleeuw@email.arizona.edu
 
