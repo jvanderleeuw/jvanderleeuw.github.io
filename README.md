@@ -18,7 +18,9 @@ I was introduced to programming for the first time in high school through the AP
 
 
 ### Resume <a name="Resume"/>
-Click [here](https://github.com/jvanderleeuw/jvanderleeuw.github.io/Jacob_Resume.pdf) for a link to my resume
+Click here for a link to my resume <a href="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/master/Jacob_Resume.pdf">
+Curriculum Vitae
+</a>
 
 
 ### Research and Internship Experience <a name="Research"/>
