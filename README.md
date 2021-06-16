@@ -1,5 +1,5 @@
 # Jacob van der Leeuw
-<img src="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/master/Jacob_Photo.jpg" alt="Jacob" class="inline"/>
+<img src="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/main/Jacob_Photo.jpg" alt="Jacob" class="inline"/>
 
 Hello, I am Jacob van der leeuw, a rising senior majoring in mathematics and computer science at the University of Arizona. I am interested in a wide variety of subjects and enjoy taking on new problems and projects. My school email is jvanderleeuw@email.arizona.edu
 
@@ -19,7 +19,7 @@ I was introduced to programming for the first time in high school through the AP
 
 
 ## Resume <a name="Resume"/>
-Click here for a link to my <a href="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/master/Jacob_Resume.pdf">
+Click here for a link to my <a href="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/main/Jacob_Resume.pdf">
 Resume
 </a>
 
