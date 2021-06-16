@@ -3,12 +3,14 @@
 
 Hello, I am Jacob van der leeuw, a rising senior majoring in mathematics and computer science at the University of Arizona. I am interested in a wide variety of subjects and enjoy taking on new problems and projects. My school email is jvanderleeuw@email.arizona.edu
 
-## Table of Contents
+<h2 align="center">Table of Contents</h2>
 
-1. [My Math/Computer Science Journey](#Math/CS)
-2. [Resume](#Resume)
-3. [Research + Internship Experience](#Experience)
-4. [My Other Interests](#Interests)
+<ol align="center">
+<li>[My Math/Computer Science Journey](#Math/CS)</li>
+<li>[Resume](#Resume)</li>
+<li>[Research + Internship Experience](#Experience)</li>
+<li>[My Other Interests](#Interests)</li>
+</ol>
 
 <hr>
 <h2 align="center">My Math/Computer Science Journey <a name="Math/CS"/></h2>
