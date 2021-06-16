@@ -25,7 +25,7 @@ Resume
 </a>
 
 <hr>
-<h2 align="center">Research and Internship Experience<a name="Research"/></h2>
+<h2 align="center">Research and Internship Experience<a name="Experience"/></h2>
 
 #### MSRI-UP
 I participated in the Mathematical Sciences Research Institute in which the focus was parking functions and their variants
