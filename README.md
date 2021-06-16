@@ -1,13 +1,14 @@
 # Jacob van der Leeuw
+<img src="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/master/IMG_20210615_174320375" alt="hi" class="inline"/>
 
 Hello, I am Jacob van der leeuw, a rising senior majoring in mathematics and computer science at the University of Arizona. I am interested in a wide variety of subjects and enjoy taking on new problems and projects. My school email is jvanderleeuw@email.arizona.edu
 
 ## Table of Contents
 
-[My Math/Computer Science Journey](#Math/CS)
-[Resume](#Resume)
-[Research + Internship Experience](#Experience)
-[My Other Interests](#Interests)
+1. [My Math/Computer Science Journey](#Math/CS)
+2. [Resume](#Resume)
+3. Research + Internship Experience](#Experience)
+4. [My Other Interests](#Interests)
 
 ### My Math/Computer Science Journey <a name="Math/CS"/>
 I've been interested in mathematics since elementary school. I loved the computation involved in algebra, geometry, calculus, and competition math. I had the chance to attend the [Mu Alpha Theta National Convention](https://mualphatheta.org/national-convention) in 2017, a memorable experience.
@@ -42,5 +43,5 @@ Researched for Harvey Mudd College’s computer science department which involve
 (June 2019 - July 2019)
 
 ### My Other Interests <a name="Interests"/>
-I am interested in a variaey of topics outside of my majors, including history, anthropology, palentology, science, track+field, chess, and more
+I am interested in a variaey of topics outside of my majors, including history, anthropology, palentology, science, trackand field, chess, and more
 
