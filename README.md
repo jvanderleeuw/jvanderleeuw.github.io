@@ -5,12 +5,10 @@ Hello, I am Jacob van der leeuw, a rising senior majoring in mathematics and com
 
 <h2 align="center">Table of Contents</h2>
 
-<ol align="center">
-<li>[My Math/Computer Science Journey](#Math/CS)</li>
-<li>[Resume](#Resume)</li>
-<li>[Research + Internship Experience](#Experience)</li>
-<li>[My Other Interests](#Interests)</li>
-</ol>
+1. [My Math/Computer Science Journey](#Math/CS)
+2. [Resume](#Resume)
+3. [Research + Internship Experience](#Experience)
+4. [My Other Interests](#Interests)
 
 <hr>
 <h2 align="center">My Math/Computer Science Journey <a name="Math/CS"/></h2>
