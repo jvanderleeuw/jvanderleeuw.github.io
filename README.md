@@ -17,8 +17,7 @@ More recently, in my college experience I was introduced to proof-based math. I'
 
 I was introduced to programming for the first time in high school through an AP Computer Science course in Java. Since then, I have learned Python, Java, C, HTML, Javascript, CSS, PHP and more. I enjoy how the principles of computer science can be used to develop algorithmic solutions to problems. For me it is a fun puzzle, fitting together lines of code which by themselves may seem simple, into a larger problem that often requires thought. Although this is not true among many in the discipline, I enjoy debugging, as it offers me opportunities to expand my problem solving abilities and to seek resources I can use to find a solution 
 
-
-## Resume <a name="Resume"/>
+<h2 style="text-align: center">Resume <a name="Resume"/></h2>
 Click here for a link to my <a href="https://github.com/jvanderleeuw/jvanderleeuw.github.io/blob/main/Jacob_Resume.pdf">
 Resume
 </a>
