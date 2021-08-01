@@ -28,8 +28,8 @@ Resume
 <h2 align="center">Research and Internship Experience<a name="Experience"/></h2>
 
 #### MSRI-UP
-I participated in the Mathematical Sciences Research Institute in which the focus was parking functions and their variants
-(June 2021 - Present)
+I participated in the MSRI-UP program as a student researcher. The focus was on parking functions and the research culminated in a paper, presentation, and poster
+(June 2021 - July 2021)
 
 #### CyVerse
 Worked at CyVerse as an intern. This involved GitHub workflow configuration, unit testing, app construction in Python, algorithm implementation, and python module construction. One project involved developing a tkinter application for viewing, manipulating, and processing geotiff images to be overlaid on a map
